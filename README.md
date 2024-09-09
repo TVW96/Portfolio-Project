@@ -1,5 +1,5 @@
 # Portfolio Project
-Web Fundamentals Portfolio Project
+a Web Fundamentals Portfolio Project
 
 ## Development Timeline
 - [x] Week 1 (this week): Project introduction, begin researching content.
