@@ -3,7 +3,7 @@ a Web Fundamentals Portfolio Project
 
 ## Development Timeline
 - [x] Week 1 (this week): Project introduction, begin researching content.
-- [ ] Week 2: Start building a simple html/css version of your project.
+- [x] Week 2: Start building a simple html/css version of your project.
 - [ ] Week 3: Use Bootstrap classes to add more visual content to your project and make it mobile-responsive.
 - [ ] Week 4: Explore using Bootstrap templates, or continue adding to your project with interactive Bootstrap components.
       
