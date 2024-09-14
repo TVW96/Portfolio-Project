@@ -1,0 +1,30 @@
+.bm-container {
+    margin: 0px 12px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 900px;
+    justify-content: center;
+}
+
+.panel {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bubble {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+.bubble-icon {
+    height: auto;
+    width: auto;
+}

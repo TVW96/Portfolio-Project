@@ -1,0 +1,22 @@
+nav {
+    width: 100vw;
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    top: 0;
+    height: auto;
+    font-size: 16px;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+p {
+    padding-inline: 10px;
+}
+
+.nav-profile {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 10px;
+}
